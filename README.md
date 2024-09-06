@@ -61,7 +61,3 @@ This project is a Streamlit app that provides personalized book recommendations 
 1. Input genres such as "horror, thriller" into the text area.
 2. The app will fetch book information for the specified genres.
 3. Enhanced recommendations will be displayed, and a downloadable PDF report will be generated.
-
-## License
-
-This project is licensed under the MIT License.
